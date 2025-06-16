@@ -15,6 +15,7 @@ pydub = "*"
 gtts = "*"
 elevenlabs = "*"
 streamlit = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
