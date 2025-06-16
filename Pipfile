@@ -12,10 +12,8 @@ faiss-cpu = "*"
 pypdf = "*"
 speechrecognition = "*"
 pydub = "*"
-pyaudio = "*"
 gtts = "*"
 elevenlabs = "*"
-gradio = "*"
 streamlit = "*"
 
 [dev-packages]
